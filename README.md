@@ -21,5 +21,5 @@ test test test
 
 ### Copyright
 
-copyright notice
+copyright notice. all rights reserved.
 
